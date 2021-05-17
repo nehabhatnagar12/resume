@@ -6,7 +6,7 @@
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "manas303@gmail.com",
     "phone": "555-555-5555",
     "address": {
       "street": "(Your Street)",
@@ -14,32 +14,32 @@
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://manassrivastava.com",
+    "resumedownload": "https://drive.google.com/file/d/1Q_QJtR-8m7hcTRMb01vxDzgC6BB2IN6G/view",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/manas.srivastava",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/manas303",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/manas-srivastava-51912a1a/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/manas303/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/manas303",
         "className": "fa fa-github"
       }
     ]
@@ -108,46 +108,21 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      }
-      ,
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
         "title": "Website",
         "category": "A React based  website",
-        "image": "resume-website.jpg",
+        "image": "florida-wallpaper-11.jpg",
         "url": "http://www.manassrivastava.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Placeholder for someone nice to come and write a testimonial!",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Someday I will write something for Manas!",
+        "user": "Akhilesh Kataria"
       },
       {
-        "text": "Placeholder for someone nice to come and write a testimonial!",
+        "text": "If it wasnt for me then Manas would have cofounded Apple",
         "user": "Steve Wozniak... impersonator"
       }
     ]
