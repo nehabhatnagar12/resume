@@ -1,12 +1,13 @@
 {
   "main": {
-    "name": "Manas Srivastava",
-    "occupation": "Software Architect",
+    "name": "Neha Bhatnagar",
+    "occupation": "Software Professional",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
+    "title": "Change Manager  •  Banking Professional",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "manas303@gmail.com",
+    "email": "neha.bhatnagar12@gmail.com",
     "phone": "+61469596932",
     "address": {
       "street": "XXXX",
@@ -19,27 +20,27 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/manas.srivastava",
+        "url": "https://www.facebook.com/neha.bhatnagar.54922",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/manas303",
+        "url": "https://twitter.com/Nehaluckyone",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/manas-srivastava-51912a1a/",
+        "url": "https://www.linkedin.com/in/neha-bhatnagar-18999922/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/manas303/",
+        "url": "https://www.instagram.com/nehaluckyone/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/manas303",
+        "url": "https://github.com/nehabhatnagar12",
         "className": "fa fa-github"
       }
     ]
